@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+streamlit_option_menu
+reportlab
+streamlit_lottie
+requests
+docx
+fuzzywuzzy
+python-Levenshtein
+catboost
+imblearn
